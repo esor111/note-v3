@@ -4,95 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2d358c16f97d81e1",
+        "id": "f84804ed2cfc7ff3",
         "type": "tabs",
         "children": [
           {
-            "id": "6cf432ecb9ded5a6",
+            "id": "85a2a2e14f3bb197",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-10-22.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-10-22"
-            }
-          },
-          {
-            "id": "1d81b6b9ae8b3f64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUMMONS/summons.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "summons"
-            }
-          },
-          {
-            "id": "dcfde13ee8f3a4da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EVERY -DAY STARTING.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EVERY -DAY STARTING"
-            }
-          },
-          {
-            "id": "34778360c71616c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IDEAS/Big-Idea.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Big-Idea"
-            }
-          },
-          {
-            "id": "fd5497faacb7fc4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "channel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "channel"
-            }
-          },
-          {
-            "id": "33574a4f9b07bd12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REPEAT -PROCESS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "REPEAT -PROCESS"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,6 +68,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "76abf8d584cdb5e7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -221,13 +156,33 @@
               "icon": "lucide-list",
               "title": "Outline of 2025-10-17"
             }
+          },
+          {
+            "id": "fafa046ac2d45f78",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "fcf9182314adcd43",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 547.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,21 +192,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33574a4f9b07bd12",
+  "active": "fafa046ac2d45f78",
   "lastOpenFiles": [
+    "2025-10-22.md",
+    "SUMMONS/summons.md",
+    "EVERY -DAY STARTING.md",
+    "IDEAS/Big-Idea.md",
     "channel.md",
     "REPEAT -PROCESS.md",
-    "IDEAS/Big-Idea.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "2025-10-23.md",
     "Untitled.md",
-    "EVERY -DAY STARTING.md",
-    "2025-10-22.md",
     "LINKS.md",
     "IDEAS",
-    "SUMMONS/summons.md",
     "2025-10-17.md",
     "SUMMONS",
     "spritual-life/passover.md",
