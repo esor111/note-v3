@@ -1,12 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-10-22",
-      "path": "2025-10-22.md"
+      "basename": "2025-10-26",
+      "path": "2025-10-26.md"
     },
     {
       "basename": "summons",
       "path": "SUMMONS/summons.md"
+    },
+    {
+      "basename": "2025-10-23",
+      "path": "2025-10-23.md"
+    },
+    {
+      "basename": "2025-10-17",
+      "path": "2025-10-17.md"
+    },
+    {
+      "basename": "2025-10-17",
+      "path": "every-day/2025-10-17.md"
+    },
+    {
+      "basename": "2025-10-27",
+      "path": "2025-10-27.md"
+    },
+    {
+      "basename": "BRAINSTROME",
+      "path": "code/ladger/BRAINSTROME.md"
+    },
+    {
+      "basename": "prompt",
+      "path": "prompt.md"
+    },
+    {
+      "basename": "2025-10-26s';zfs",
+      "path": "2025-10-26s';zfs.md"
+    },
+    {
+      "basename": "LINKS",
+      "path": "LINKS.md"
+    },
+    {
+      "basename": "2025-10-25",
+      "path": "2025-10-25.md"
+    },
+    {
+      "basename": "2025-10-24",
+      "path": "2025-10-24.md"
+    },
+    {
+      "basename": "healio",
+      "path": "healio.base"
+    },
+    {
+      "basename": "dataviewman",
+      "path": "dataviewman.md"
+    },
+    {
+      "basename": "channel",
+      "path": "channel.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "2025-10-22",
+      "path": "2025-10-22.md"
     },
     {
       "basename": "EVERY -DAY STARTING",
@@ -15,10 +75,6 @@
     {
       "basename": "Big-Idea",
       "path": "IDEAS/Big-Idea.md"
-    },
-    {
-      "basename": "channel",
-      "path": "channel.md"
     }
   ],
   "omittedPaths": [],
