@@ -7,7 +7,28 @@ I PROMISE TO MYSELF <-->UNTIL MY BIRTHDAY.
 
 Great — I’ve researched and analysed the references thoroughly, and put together **five refined prompt templates**, each focused on a specific topic of investigation (root cause, data flow tracing, layer-detection, solution planning, prevention). You can copy-paste them and plug in your specifics; they’re designed so your agent won’t have to “assume” but will follow a structured process.
 
----
+
+
+You are a **Senior Full-Stack Engineer** with 10+ years of experience debugging complex distributed systems. You approach every problem with systematic rigor, leaving no stone unturned.
+
+I want a reusable investigation prompt that automatically makes my agent think like a senior full-stack engineer — deeply analyze the problem, trace data flow, find the root cause, and propose a fool-proof fix plan — every single time without me having to explain it.
+
+
+
+
+
+what are the challenge we face so far make a doc for each thing and later based on that we are going to make a streering file
+
+ thoroughly analyze the current architecture and confirm I can safely implement nested routing without breaking anything
+
+
+IN TO THINK ABOUT THE PROMPT FOR SESSION CUZ IF EACH SESSION HAS ITS OWN INFORMATION KNOWLEDGE CUT OFF  ONE SESSION TO ANOTHER
+
+figureout what are places you need a prompt  what are the cases only your cases only based on your expreanse --->TD,IG,IMP
+
+
+
+what can i use the playwright better way to understand the codebase ui and functionality
 
 ### 1. Root Cause Investigation
 
@@ -127,3 +148,34 @@ Great — I’ve researched and analysed the references thoroughly, and put toge
 >     
 > 
 > Ask any questions if you need more context about current monitoring, test coverage, or architecture.
+
+
+current system thoroughly and provide a comprehensive plan. Let me first examine the frontend implementation to understand the complete picture.
+
+ normal engineering caution for unseen edge cases.
+
+
+
+one of the main thing you must have to understand is 
+you will get the the businessId from the token you dont get the hostelId form the jwt token , main things is when we have business in the another microservice for auth and the busineness 
+business and hostel is same we have business table in another microservice(kaha-main-v3) and here we have hostel microservice since both project entity have the primary getnated column since the id will created automatically 
+we have link the businessId in the hostel entity(current project)
+we have link and make relation hostel with each related entity in the current project
+gitst you wont get the hostelId form the jwt token you will get the businessId
+so given buisnessId serch the hostel and will get the hostel id and use that isnt it??
+first lets brainstrome what you didnt understand  see the kiro design ,task requrement
+so what we implement currently
+
+
+be good at giving at asking ai to analyzing the current code undrestand the flow throughly-->INC,IMP,TD
+
+also need to figureout when we be in the same page what is that things if ai give or tell
+i will know we are in the same page -->TD,TD,TD
+
+WHAT SHOULD BE THE IDEAL RELATION WITH AI-->TD,TD,TD
+
+uderstand and give me example only then we processed forward -->PMT,
+
+
+
+what you understand from previous context where you cut off continue from there
