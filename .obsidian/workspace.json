@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINKS.md",
+                "file": "2025-11-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LINKS"
+              "title": "2025-11-02"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -103,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b9cd9f5ed2a3b116",
@@ -217,14 +217,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb029f4d40c808c7",
+  "active": "cb3bd3aa99f13c85",
   "lastOpenFiles": [
-    "2025-11-02.md",
     "2025-11-03.md",
+    "2025-11-02.md",
+    "code/ladger/BRAINSTROME.md",
     "LINKS.md",
     "prompt.md",
     "SUMMONS/summons.md",
-    "code/ladger/BRAINSTROME.md",
     "2025-11-01.md",
     "2025-10-31.md",
     "2025-10-30.md",
