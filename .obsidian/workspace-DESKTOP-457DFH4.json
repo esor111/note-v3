@@ -1,41 +1,42 @@
 {
   "main": {
-    "id": "2a3316f1371639cc",
+    "id": "1e783e03b824afbb",
     "type": "split",
     "children": [
       {
-        "id": "dd82054aad52f1a6",
+        "id": "72d51641824966fa",
         "type": "tabs",
         "children": [
           {
-            "id": "46402985aa225896",
+            "id": "c9c4cc4d9ba1c6ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-06.md",
+                "file": "2025-12-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-06"
+              "title": "2025-12-01"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5f538accbc0058ea",
+    "id": "a9413262cc98ce63",
     "type": "split",
     "children": [
       {
-        "id": "00fad2b14b3eadeb",
+        "id": "d4cf357e7f89c05a",
         "type": "tabs",
         "children": [
           {
-            "id": "fd839b6db2525b53",
+            "id": "59669cba87b3bfe0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,13 +49,13 @@
             }
           },
           {
-            "id": "44ce7d1d32910cfc",
+            "id": "a2c407dd7643e0ec",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "http",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +66,7 @@
             }
           },
           {
-            "id": "9e5afe9c7039f625",
+            "id": "3355bef504167eb2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,28 +74,38 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "76abf8d584cdb5e7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "8891d9e10dd83077",
+    "id": "b9cd9f5ed2a3b116",
     "type": "split",
     "children": [
       {
-        "id": "85860252f9cc2f02",
+        "id": "54f113de02954221",
         "type": "tabs",
         "children": [
           {
-            "id": "c603c22d2877f444",
+            "id": "1861975a3e48b51a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-12-02.md",
+                "file": "2025-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,32 +115,32 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-12-02"
+              "title": "Backlinks for 2025-10-17"
             }
           },
           {
-            "id": "073bbc08c62bc3ce",
+            "id": "540075b097480f9b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-12-02.md",
+                "file": "2025-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-12-02"
+              "title": "Outgoing links from 2025-10-17"
             }
           },
           {
-            "id": "6db803e536a9e6ce",
+            "id": "44161657eedb3ab9",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -137,22 +148,32 @@
             }
           },
           {
-            "id": "07ff01e14d833c2c",
+            "id": "63627bcdb99a054a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-12-02.md",
+                "file": "code/ladger/BRAINSTROME.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-02"
+              "title": "Outline of BRAINSTROME"
             }
           },
           {
-            "id": "89f7b4276026a34c",
+            "id": "fafa046ac2d45f78",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "d1bea730c7e4809a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -162,11 +183,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 549.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,33 +203,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46402985aa225896",
+  "active": "c9c4cc4d9ba1c6ed",
   "lastOpenFiles": [
-    "prompt-guide/resources.md",
-    "2025-12-06.md",
-    "2025-12-05.md",
-    "2025-12-04.md",
-    "2025-11-27.md",
     "2025-11-29.md",
     "2025-12-01.md",
-    "2025-12-02.md",
-    "2025-12-03.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "Untitled 2.md",
-    "prompt-guide",
-    "2025-11-09-DESKTOP-457DFH4.md",
-    "2025-10-27-DESKTOP-457DFH4.md",
-    "code/ladger/BRAINSTROME-DESKTOP-457DFH4.md",
-    "SUMMONS/summons-DESKTOP-457DFH4.md",
-    "prompt-DESKTOP-457DFH4.md"
+    "2025-11-27.md",
+    "2025-11-26.md",
+    "2025-11-25.md",
+    "2025-11-24.md",
+    "2025-11-21.md",
+    "2025-11-16.md",
+    "2025-11-17.md",
+    "2025-11-20.md",
+    "2025-11-15.md",
+    "2025-11-14.md",
+    "2025-11-03.md",
+    "2025-11-02.md",
+    "2025-11-01.md",
+    "2025-10-30.md",
+    "2025-10-29.md",
+    "2025-10-28.md",
+    "2025-10-26.md",
+    "2025-10-24.md",
+    "2025-10-22.md",
+    "2025-10-17.md",
+    "SUMMONS/summons.md",
+    "Untitled.base",
+    "2025-11-11.md",
+    "2025-11-12.md",
+    "2025-11-13.md",
+    "desktop.ini",
+    "Pasted image 20251026123946.png",
+    "Pasted image 20251026123941.png",
+    "Pasted image 20251025183945.png",
+    "Pasted image 20251025181911.png",
+    "screenshots",
+    "file.png",
+    "healio.base",
+    "code/ladger",
+    "code",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "IDEAS",
+    "SUMMONS"
   ]
 }

@@ -1,3 +1,4 @@
+
 -WHAT ARE THINGS ARE REMAINING 
 
 -WHAT ARE THE CRITICAL BUG TO FIX?
@@ -50,6 +51,991 @@ when  i click here the edit button and and supose update the layout how it is wo
   
   
 
+{
+
+    "status": 200,
+
+    "result": {
+
+        "items": [
+
+               {
+
+                "id": "9cd41f6a-f3a8-4f62-9d8d-34e954d80fc1",
+
+                "name": "maya",
+
+                "type": "Dormitory",
+
+                "bedCount": 4,
+
+                "occupancy": 0,
+
+                "gender": "Mixed",
+
+                "monthlyRate": "12000.00",
+
+                "dailyRate": "167.00",
+
+                "amenities": [
+
+                    {
+
+                        "id": "1",
+
+                        "name": "Private Bathroom",
+
+                        "description": "Private Bathroom"
+
+                    },
+
+                    {
+
+                        "id": "2",
+
+                        "name": "Wi-Fi",
+
+                        "description": "Wi-Fi"
+
+                    },
+
+                    {
+
+                        "id": "3",
+
+                        "name": "Lockers",
+
+                        "description": "Lockers"
+
+                    },
+
+                    {
+
+                        "id": "4",
+
+                        "name": "Power Outlet",
+
+                        "description": "Power Outlet"
+
+                    }
+
+                ],
+
+                "status": "ACTIVE",
+
+                "layout": {
+
+                    "theme": {
+
+                        "name": "Modern",
+
+                        "wallColor": "#F8F9FA",
+
+                        "floorColor": "#E9ECEF"
+
+                    },
+
+                    "elements": [
+
+                        {
+
+                            "x": 1.1205555555555557,
+
+                            "y": 0.43833333333333335,
+
+                            "id": "bed1",
+
+                            "type": "single-bed",
+
+                            "width": 1.3,
+
+                            "height": 3.1,
+
+                            "zIndex": 0,
+
+                            "rotation": 0,
+
+                            "properties": {
+
+                                "bedId": "bed1",
+
+                                "status": "available",
+
+                                "bedType": "single",
+
+                                "bedLabel": "Bed A",
+
+                                "orientation": "north"
+
+                            }
+
+                        },
+
+                        {
+
+                            "x": 0.49687242798353853,
+
+                            "y": 7.461275720164609,
+
+                            "id": "bed2",
+
+                            "type": "bunk-bed",
+
+                            "width": 2.6,
+
+                            "height": 2.2,
+
+                            "zIndex": 1,
+
+                            "rotation": 0,
+
+                            "properties": {
+
+                                "bedId": "bed2",
+
+                                "levels": [
+
+                                    {
+
+                                        "id": "bed2-top",
+
+                                        "bedId": "bed2-top",
+
+                                        "status": "available",
+
+                                        "position": "top"
+
+                                    },
+
+                                    {
+
+                                        "id": "bed2-bottom",
+
+                                        "bedId": "bed2-bottom",
+
+                                        "status": "available",
+
+                                        "position": "bottom"
+
+                                    }
+
+                                ],
+
+                                "status": "available",
+
+                                "bedType": "bunk",
+
+                                "bedLabel": "Bed B",
+
+                                "isLocked": false,
+
+                                "bunkLevels": 2,
+
+                                "orientation": "north"
+
+                            }
+
+                        },
+
+                        {
+
+                            "x": 4.928888888888889,
+
+                            "y": 7.89744,
+
+                            "id": "door1",
+
+                            "type": "door",
+
+                            "width": 0.9,
+
+                            "height": 2.1,
+
+                            "zIndex": 2,
+
+                            "rotation": 0,
+
+                            "properties": {
+
+                                "hingeType": "left"
+
+                            }
+
+                        },
+
+                        {
+
+                            "x": 8.400000000000002,
+
+                            "y": 6.992222222222223,
+
+                            "id": "bed3",
+
+                            "type": "bunk-bed",
+
+                            "width": 2.6,
+
+                            "height": 2.2,
+
+                            "zIndex": 3,
+
+                            "rotation": 0,
+
+                            "properties": {
+
+                                "bedId": "bed3",
+
+                                "levels": [
+
+                                    {
+
+                                        "id": "bed3-top",
+
+                                        "bedId": "bed3-top",
+
+                                        "status": "available",
+
+                                        "position": "top"
+
+                                    },
+
+                                    {
+
+                                        "id": "bed3-bottom",
+
+                                        "bedId": "bed3-bottom",
+
+                                        "status": "available",
+
+                                        "position": "bottom"
+
+                                    }
+
+                                ],
+
+                                "status": "available",
+
+                                "bedType": "bunk",
+
+                                "bedLabel": "Bed C",
+
+                                "isLocked": false,
+
+                                "bunkLevels": 2,
+
+                                "orientation": "north"
+
+                            }
+
+                        },
+
+                        {
+
+                            "x": 8.422777777777778,
+
+                            "y": 0.9833333333333333,
+
+                            "id": "bed4",
+
+                            "type": "single-bed",
+
+                            "width": 1.3,
+
+                            "height": 3.1,
+
+                            "zIndex": 4,
+
+                            "rotation": 0,
+
+                            "properties": {
+
+                                "bedId": "bed4",
+
+                                "status": "available",
+
+                                "bedType": "single",
+
+                                "bedLabel": "Bed D",
+
+                                "orientation": "north"
+
+                            }
+
+                        },
+
+                        {
+
+                            "x": 10.434475555555556,
+
+                            "y": 1.3431481481481482,
+
+                            "id": "window1",
+
+                            "type": "window",
+
+                            "width": 1.2,
+
+                            "height": 1.2,
+
+                            "zIndex": 5,
+
+                            "rotation": 0,
+
+                            "properties": {
+
+                                "isOpen": false
+
+                            }
+
+                        }
+
+                    ],
+
+                    "warnings": [],
+
+                    "createdAt": "2025-10-25T13:01:06.569Z",
+
+                    "dimensions": {
+
+                        "width": 9.99744,
+
+                        "height": 2.9870400000000004,
+
+                        "length": 12.00912
+
+                    },
+
+                    "layoutType": "Modern",
+
+                    "bedPositions": [
+
+                        {
+
+                            "x": 1.1205555555555557,
+
+                            "y": 0.43833333333333335,
+
+                            "id": "R-350-bed1",
+
+                            "type": "single-bed",
+
+                            "width": 1.3,
+
+                            "height": 3.1,
+
+                            "rotation": 0,
+
+                            "properties": {
+
+                                "bedId": "bed1",
+
+                                "status": "available",
+
+                                "bedType": "single",
+
+                                "bedLabel": "Bed A",
+
+                                "orientation": "north"
+
+                            },
+
+                            "status": "Available",
+
+                            "occupantId": null,
+
+                            "occupantName": null,
+
+                            "gender": "Mixed",
+
+                            "color": "#10B981",
+
+                            "bedDetails": {
+
+                                "bedNumber": "1",
+
+                                "monthlyRate": "12000.00",
+
+                                "lastCleaned": null,
+
+                                "maintenanceNotes": null,
+
+                                "occupiedSince": null
+
+                            }
+
+                        },
+
+                        {
+
+                            "x": 0.49687242798353853,
+
+                            "y": 7.461275720164609,
+
+                            "id": "R-350-bed2",
+
+                            "type": "bunk-bed",
+
+                            "width": 2.6,
+
+                            "height": 2.2,
+
+                            "rotation": 0,
+
+                            "properties": {
+
+                                "bedId": "bed2",
+
+                                "levels": [
+
+                                    {
+
+                                        "id": "bed2-top",
+
+                                        "bedId": "bed2-top",
+
+                                        "status": "available",
+
+                                        "position": "top"
+
+                                    },
+
+                                    {
+
+                                        "id": "bed2-bottom",
+
+                                        "bedId": "bed2-bottom",
+
+                                        "status": "available",
+
+                                        "position": "bottom"
+
+                                    }
+
+                                ],
+
+                                "status": "available",
+
+                                "bedType": "bunk",
+
+                                "bedLabel": "Bed B",
+
+                                "isLocked": false,
+
+                                "bunkLevels": 2,
+
+                                "orientation": "north"
+
+                            },
+
+                            "status": "Available",
+
+                            "occupantId": null,
+
+                            "occupantName": null,
+
+                            "gender": "Mixed",
+
+                            "color": "#10B981",
+
+                            "bedDetails": {
+
+                                "bedNumber": "2",
+
+                                "monthlyRate": "12000.00",
+
+                                "lastCleaned": null,
+
+                                "maintenanceNotes": null,
+
+                                "occupiedSince": null
+
+                            }
+
+                        },
+
+                        {
+
+                            "x": 8.400000000000002,
+
+                            "y": 6.992222222222223,
+
+                            "id": "R-350-bed3",
+
+                            "type": "bunk-bed",
+
+                            "width": 2.6,
+
+                            "height": 2.2,
+
+                            "rotation": 0,
+
+                            "properties": {
+
+                                "bedId": "bed3",
+
+                                "levels": [
+
+                                    {
+
+                                        "id": "bed3-top",
+
+                                        "bedId": "bed3-top",
+
+                                        "status": "available",
+
+                                        "position": "top"
+
+                                    },
+
+                                    {
+
+                                        "id": "bed3-bottom",
+
+                                        "bedId": "bed3-bottom",
+
+                                        "status": "available",
+
+                                        "position": "bottom"
+
+                                    }
+
+                                ],
+
+                                "status": "available",
+
+                                "bedType": "bunk",
+
+                                "bedLabel": "Bed C",
+
+                                "isLocked": false,
+
+                                "bunkLevels": 2,
+
+                                "orientation": "north"
+
+                            },
+
+                            "status": "Available",
+
+                            "occupantId": null,
+
+                            "occupantName": null,
+
+                            "gender": "Mixed",
+
+                            "color": "#10B981",
+
+                            "bedDetails": {
+
+                                "bedNumber": "3",
+
+                                "monthlyRate": "12000.00",
+
+                                "lastCleaned": null,
+
+                                "maintenanceNotes": null,
+
+                                "occupiedSince": null
+
+                            }
+
+                        },
+
+                        {
+
+                            "x": 8.422777777777778,
+
+                            "y": 0.9833333333333333,
+
+                            "id": "R-350-bed4",
+
+                            "type": "single-bed",
+
+                            "width": 1.3,
+
+                            "height": 3.1,
+
+                            "rotation": 0,
+
+                            "properties": {
+
+                                "bedId": "bed4",
+
+                                "status": "available",
+
+                                "bedType": "single",
+
+                                "bedLabel": "Bed D",
+
+                                "orientation": "north"
+
+                            },
+
+                            "status": "Available",
+
+                            "occupantId": null,
+
+                            "occupantName": null,
+
+                            "gender": "Mixed",
+
+                            "color": "#10B981",
+
+                            "bedDetails": {
+
+                                "bedNumber": "4",
+
+                                "monthlyRate": "12000.00",
+
+                                "lastCleaned": null,
+
+                                "maintenanceNotes": null,
+
+                                "occupiedSince": null
+
+                            }
+
+                        }
+
+                    ],
+
+                    "furnitureLayout": [
+
+                        {
+
+                            "x": 4.928888888888889,
+
+                            "y": 7.89744,
+
+                            "id": "door1",
+
+                            "type": "door",
+
+                            "width": 0.9,
+
+                            "height": 2.1,
+
+                            "rotation": 0
+
+                        },
+
+                        {
+
+                            "x": 10.434475555555556,
+
+                            "y": 1.3431481481481482,
+
+                            "id": "window1",
+
+                            "type": "window",
+
+                            "width": 1.2,
+
+                            "height": 1.2,
+
+                            "rotation": 0
+
+                        }
+
+                    ]
+
+                },
+
+                "floor": "Ground Floor",
+
+                "roomNumber": "R-350",
+
+                "occupants": [],
+
+                "availableBeds": 4,
+
+                "lastCleaned": null,
+
+                "maintenanceStatus": "Good",
+
+                "pricingModel": "monthly",
+
+                "description": "",
+
+                "images": [],
+
+                "createdAt": "2025-10-25T07:15:23.979Z",
+
+                "updatedAt": "2025-10-25T07:15:23.979Z",
+
+                "beds": [
+
+                    {
+
+                        "id": "29c10ee3-0ff9-42c5-a611-a4d19795572b",
+
+                        "createdAt": "2025-10-25T07:15:24.291Z",
+
+                        "updatedAt": "2025-10-25T07:15:24.291Z",
+
+                        "roomId": "9cd41f6a-f3a8-4f62-9d8d-34e954d80fc1",
+
+                        "hostelId": "3d7f0eec-89aa-41be-984c-835e98e21e9b",
+
+                        "bedNumber": "3",
+
+                        "bedIdentifier": "R-350-bed3",
+
+                        "status": "Available",
+
+                        "gender": "Mixed",
+
+                        "monthlyRate": "12000.00",
+
+                        "description": "Bed 3 in maya",
+
+                        "notes": null,
+
+                        "currentOccupantId": null,
+
+                        "currentOccupantName": null,
+
+                        "occupiedSince": null,
+
+                        "lastCleaned": null,
+
+                        "maintenanceNotes": null
+
+                    },
+
+                    {
+
+                        "id": "909e2fb9-d98a-4fc8-902f-4a010a184d46",
+
+                        "createdAt": "2025-10-25T07:15:24.247Z",
+
+                        "updatedAt": "2025-10-25T07:15:24.247Z",
+
+                        "roomId": "9cd41f6a-f3a8-4f62-9d8d-34e954d80fc1",
+
+                        "hostelId": "3d7f0eec-89aa-41be-984c-835e98e21e9b",
+
+                        "bedNumber": "2",
+
+                        "bedIdentifier": "R-350-bed2",
+
+                        "status": "Available",
+
+                        "gender": "Mixed",
+
+                        "monthlyRate": "12000.00",
+
+                        "description": "Bed 2 in maya",
+
+                        "notes": null,
+
+                        "currentOccupantId": null,
+
+                        "currentOccupantName": null,
+
+                        "occupiedSince": null,
+
+                        "lastCleaned": null,
+
+                        "maintenanceNotes": null
+
+                    },
+
+                    {
+
+                        "id": "4037a0f9-4422-4a2a-83a9-378f6abb31b4",
+
+                        "createdAt": "2025-10-25T07:15:24.199Z",
+
+                        "updatedAt": "2025-10-25T07:15:24.199Z",
+
+                        "roomId": "9cd41f6a-f3a8-4f62-9d8d-34e954d80fc1",
+
+                        "hostelId": "3d7f0eec-89aa-41be-984c-835e98e21e9b",
+
+                        "bedNumber": "1",
+
+                        "bedIdentifier": "R-350-bed1",
+
+                        "status": "Available",
+
+                        "gender": "Mixed",
+
+                        "monthlyRate": "12000.00",
+
+                        "description": "Bed 1 in maya",
+
+                        "notes": null,
+
+                        "currentOccupantId": null,
+
+                        "currentOccupantName": null,
+
+                        "occupiedSince": null,
+
+                        "lastCleaned": null,
+
+                        "maintenanceNotes": null
+
+                    },
+
+                    {
+
+                        "id": "71a8b9eb-9481-4f39-8447-f8b3c4d5de50",
+
+                        "createdAt": "2025-10-25T07:15:24.344Z",
+
+                        "updatedAt": "2025-10-25T07:15:24.344Z",
+
+                        "roomId": "9cd41f6a-f3a8-4f62-9d8d-34e954d80fc1",
+
+                        "hostelId": "3d7f0eec-89aa-41be-984c-835e98e21e9b",
+
+                        "bedNumber": "4",
+
+                        "bedIdentifier": "R-350-bed4",
+
+                        "status": "Available",
+
+                        "gender": "Mixed",
+
+                        "monthlyRate": "12000.00",
+
+                        "description": "Bed 4 in maya",
+
+                        "notes": null,
+
+                        "currentOccupantId": null,
+
+                        "currentOccupantName": null,
+
+                        "occupiedSince": null,
+
+                        "lastCleaned": null,
+
+                        "maintenanceNotes": null
+
+                    }
+
+                ],
+
+                "hostelId": "3d7f0eec-89aa-41be-984c-835e98e21e9b"
+
+            },
+
+so on  
+
+             ],
+
+        "pagination": {
+
+            "page": 1,
+
+            "limit": 20,
+
+            "total": 7,
+
+            "totalPages": 1
+
+        }
+
+    }
+
+  
+
+    ....
+
+  
+  
+
+    what are node we have use this is api good or anything we can do or
+
+
+
+
+i have confim the booking not showing in the recent activities why? 
+what are trigger if happens we are going to add int he recent activities??? currtntly
+
+
+
+what happens after booking appove/confirm
+
+--it should show in student configuration recent configuration first isnt it?
+--i have configure the student with parents detail  gurdain detail, cource , institude and so on but when i view the detail why there no guardian information ???
+cource institution not showing as you see
+![[Pasted image 20251025183945.png]]
+
+
+edit student detail popup is overflow form the screen not able to see the  update student button 
+
+
+in the payment route i got
+💰 Payments result: Array(0)
+usePayments.ts:77 ❌ Error loading payments: TypeError: Cannot read properties of undefined (reading 'length')
+    at usePayments.ts:75:67
+    at async Promise.all (index 0)
+    at async usePayments.ts:162:7
+(anonymous) @ usePayments.ts:77Understand this error
+2usePayments.ts:406 Uncaught TypeError: Cannot read properties of undefined (reading 'length')
+    at usePayments (usePayments.ts:406:29)
+    at PaymentRecording (PaymentRecording.tsx:31:7)
+    at renderWithHooks (chunk-RPCDYKBN.js?v=e53ddcb4:11548:26)
+    at updateFunctionComponent (chunk-RPCDYKBN.js?v=e53ddcb4:14582:28)
+    at beginWork (chunk-RPCDYKBN.js?v=e53ddcb4:15924:22)
+    at HTMLUnknownElement.callCallback2 (chunk-RPCDYKBN.js?v=e53ddcb4:3674:22)
+    at Object.invokeGuardedCallbackDev (chunk-RPCDYKBN.js?v=e53ddcb4:3699:24)
+    at invokeGuardedCallback (chunk-RPCDYKBN.js?v=e53ddcb4:3733:39)
+    at beginWork$1 (chunk-RPCDYKBN.js?v=e53ddcb4:19765:15)
+    at performUnitOfWork (chunk-RPCDYKBN.js?v=e53ddcb4:19198:20)Understand this error
+chunk-RPCDYKBN.js?v=e53ddcb4:14032 The above error occurred in the <PaymentRecording> component:
+
+    at PaymentRecording (http://localhost:8080/src/components/ledger/PaymentRecording.tsx:34:20)
+    at Suspense
+    at div
+    at div
+    at div
+    at div
+    at Ledger (http://localhost:8080/src/pages/Ledger.tsx:94:37)
+    at Suspense
+    at AuthGuard (http://localhost:8080/src/components/auth/AuthGuard.tsx:109:37)
+    at RenderedRoute (http://localhost:8080/node_modules/.vite/deps/react-router-dom.js?v=e53ddcb4:4088:5)
+    at Routes (http://localhost:8080/node_modules/.vite/deps/react-router-dom.js?v=e53ddcb4:4558:5)
+    at Suspense
+    at Router (http://localhost:8080/node_modules/.vite/deps/react-router-dom.js?v=e53ddcb4:4501:15)
+    at BrowserRouter (http://localhost:8080/node_modules/.vite/deps/react-router-dom.js?v=e53ddcb4:5247:5)
+    at SafeTooltipProvider (http://localhost:8080/src/components/providers/SafeTooltipProvider.tsx:17:39)
+    at SafeAppProvider (http://localhost:8080/src/contexts/SafeAppContext.tsx:20:35)
+    at AuthProvider (http://localhost:8080/src/contexts/AuthContext.tsx:98:32)
+    at QueryClientProvider (http://localhost:8080/node_modules/.vite/deps/@tanstack_react-query.js?v=e53ddcb4:2934:3)
+    at ErrorBoundary (http://localhost:8080/src/components/ErrorBoundary.tsx:6:8)
+    at App (http://localhost:8080/src/App.tsx:127:3)
+
+React will try to recreate this component tree from scratch using the error boundary you provided, ErrorBoundary.
+logCapturedError @ chunk-RPCDYKBN.js?v=e53ddcb4:14032Understand this error
+ErrorBoundary.tsx:23 React Error Boundary caught an error: TypeError: Cannot read properties of undefined (reading 'length')
+    at usePayments (usePayments.ts:406:29)
+    at PaymentRecording (PaymentRecording.tsx:31:7)
+    at renderWithHooks (chunk-RPCDYKBN.js?v=e53ddcb4:11548:26)
+    at updateFunctionComponent (chunk-RPCDYKBN.js?v=e53ddcb4:14582:28)
+    at beginWork (chunk-RPCDYKBN.js?v=e53ddcb4:15924:22)
+    at beginWork$1 (chunk-RPCDYKBN.js?v=e53ddcb4:19753:22)
+    at performUnitOfWork (chunk-RPCDYKBN.js?v=e53ddcb4:19198:20)
+    at workLoopSync (chunk-RPCDYKBN.js?v=e53ddcb4:19137:13)
+    at renderRootSync (chunk-RPCDYKBN.js?v=e53ddcb4:19116:15)
+    at recoverFromConcurrentError (chunk-RPCDYKBN.js?v=e53ddcb4:18736:28) Object
+componentDidCatch @ ErrorBoundary.tsx:23Understand this error
+apiService.ts:74 [API Response] GET http://localhost:3001/hostel/api/v1/payments Object
+paymentsApiService.ts:132 💰 Payments result: Array(0)
+usePayments.ts:77 ❌ Error loading payments: TypeError: Cannot read properties of undefined (reading 'length')
+    at usePayments.ts:75:67
+    at async Promise.all (index 0)
+    at async usePayments.ts:162:7
+(anonymous) @ usePayments.ts:77Understand this error
+apiService.ts:74 [API Response] GET http://localhost:3001/hostel/api/v1/payments/stats Object
+paymentsApiService.ts:228 📊 Payment stats result: Object
+usePayments.ts:99 ✅ Payment stats loaded successfully
+
+
 
 
 hmmmm are you sure man
@@ -90,388 +1076,17 @@ we have in every page right i want to remove this one  i want you view how can w
 
 
 issues::
-we have sidebar and the main page right when i scrolll the main page sidebar also scroll right can we do somethinglike sidbar collapase able and then that is not scrool and  only the main page is scrool can we do this safely  without changing other functionality? before doing i want you to analyze and understand what si the currect codebase what need to change  how can we do this effectlivey and be 120% cofindent and then we will start task  iam taking about hostel ladger
-http://localhost:8080/ledger page
+we have sidebar and the main page right when i scrolll the main page sidebar also scroll right can we do somethinglike sidbar collapase able and then that is not scrool and  only the main page is scrool can we do this safely  without changing other functionality? before doing i want you to analyze and understand what si the currect codebase what need to change  how can we do this effectlivey and be 120% cofindent and then we will start task
 
 
 elements section look so janky looking they i over each other  and for each coponet vertical space is really very small 
 
 
-one of the problem is when i add the room  i can add the bedcount  in the ui supponse i add the bed count 3 in the UI i can add the whatever count of bed no restriction since i have add set the bed count 3 i only can  have to add the only 3 bed isnt it ?==
+one of the problem is when i add the room  i can add the bedcount  in the ui supponse i add the bed count 3 in the UI i can add the whatever count of bed no restriction since i have add set the bed count 3 i only can  have to add the only 3 bed isnt it ?
 
-
-image must should be rendered
----
-
-
-
-after cofigure the student form the pending conversation it goes to the student list right the main thing here is not about see the in the first row understand ? it is now showing int he first list sometime it goes middle sometime last?? ==
-
-
-what about this back button this look bad and overlap idk what this is fixed in the one position right idont know where to put to look that better? please i want you to see go to the room layout page and see the backbutton where it was and figureout out where we need to put. also save layout button same problme what to do? ==
-
-
-
-
-in the room listing image is not showing why figureout and solve it
-in the response backend give the empty images what is problem please firguroeut 
-which api use for creating room in the frontend or investigate is that images pass in the requrest or not everything investigate it only fully analyze do not code for now
-
-showing occupany rate 
-
-
-remove save and exit button only save button is fine
-and also i want to add the 39.4 ft × 32.8 ft in the top in the layout
-
-
-
-
-
-### Student Status Distribution
-
-Breakdown of students by their current status in the hostel
-
-is this also showing static?
-
-
-##   
-⚡ Admin Charging System
-now working anything properly i want you to anzlyze the whhole codebase fronte-end backend 
-first figureout what are the actions , what are trigger , if something create where it going to change
-meaning just want you know the whole flow diffrent action user can can do and based on that action what are the places it will going to change || effect  and try whole flow figuouret where is the flow
-
-
-
-make it clickable to that kaha logo and it will redirect into the dashboard scrren
-http://localhost:8081/admin
-
-
-
-
-
-minor fixes
-
-nedd to remove api test menu
-
-
-showing 
-Current Occupancy Rate
-Percentage of beds currently occupied
-76% --fixed
-
-Current Occupancy Rate
-Percentage of beds currently occupied
-89% --> is this fix?
-
-make this widow default heigh small for that layout
 
 
 user email is shwoing random?  
 
-fix this search functionlity when i try to search every word i put there page kind of refresh scrreen blink  when search student also see is there other places this kind of issue? --> in so many search places i want you to figuroeut yourself and change where it requrire to change only
 
-major 
-
-one of the things missing here what about this bunk bed can we assume that double  to single bed in the booking we just user can book direcly that bunk bed without specifing the top or bottom  so i think we treat a single bed but ui and everytinng should as it it  
-figureout where it effect or how we handle.
-and also in most of the cases shoing Designer
-3 beds in the actual ui we have 4 beds and 
-and also in the room listing page 0/5 this but we only have 3 beds why this kind of issue please i want to understand everything how this working what might be the proble just brainstorm not code
-
-
-hostel ladger sidebar not scroolable and another problme is i fyou see taking space from the top and side did you understand what i mean tell me first before code?
-
-after doing everything need to remove the console logs
-
-remove checkIn checkout option for now imean today attendace card
-
-when i edit a room not working as expected edit the layout even if i have bed i have set hte bed count supponse 6  i have add add the 4 bed in the layout it is working but if i edet and make it add extra 2 beds also not working showing random like 0/1
-even we have a beds in the layout i do understand what is the problme man
-
-
-
-
-LETS TALK ABOUT LEDGER FLOW 
-what are the things that effect the ladger
-
-payment recording
-discount management
-admin charging
-
-main thing is we have to make that ladger robost we have to do the calculation presisely carefully since we are giving for the hostel owner 
-figureout what are things can change the   
-📋 Student Ledger stuff like
-payment recording, admin charging  
-
-i need to figureout it is correctly working or not 
-
-we need to figureout  if the student do the checkout  what happedn currectly and what should happen
-
-
-
-
-wehn you edid the layout showign the big problem  currtly showing 0/2 this is fine
-wehn i add the new bed in the layout  showin  0/1 what the helll is this?
-this is crzy problem pleae i want you to figureout what is this exact problem understand througthly please understadn this trace go to the room cause of that  problem and tell the me problem and purpose the solution before anything
-
-
-here i want  you think about this 
-### Recent Activities
-currently what are the actions we are taking as a recent actitives  and showing in that recent activites?
-
-
-
-
-after i approve the configuration it need to redirect on #  Student Management
-Enroll and manage student records <-this section understand??
-
-i think we need to remove 
-One-time Security Deposit:₹10,000
-
-
-
-
-
-### Monthly Revenue
-
-NPR 40,000
-
-Current month
-
-### Pending Payments
-
-NPR 0
-
-No pending payments
-
-no the specific hostel data i think???
-
-
-main thing you have to understad we assume single bed and multi bed 
-
-you are shoing the some like 4 bed available 3 bed availabe and so
-for this do not depend upon the backend just see the response bed list
-if that status is available that beds are available ok understand
-
-
-need to put automated billiing at last in the menu
-
-in the booking detail page when i click on that
-
-did you see the space taking this logo and our main contain in shwoing in the middle
-
-
-IS THIS DASHBOARD IS HOSTEL WISE OR 
-one of the main concern is we since we this is platform and hostel wise stuff
-after switch the hostel it should show everything about that hostel 
-for e.g dashboard, booking , students, analytics , hostel ladger only of that particular hostel we switch uderstnd  i watn you to deeply analyze the code and understand thoroughtly where if take the all hostel data and show insted that particular hostel 
-this is one of the main concern this is high priority please go throughly
-
-
-
-
-
-
-
-
-
-able add number invalid phone number??
-
-dashboard random amount showing
-
-need to remove some data from the payment  page
-
-what about revinue  only pament (currently) or i have to add other whole amount
-like: adding:: discount, advance , charging and so on (ask to who may concern)
-
-
-
-figureout the checkout flow
-
-make a shortcut to call your flow page for sterring (uderstadn-->ISHWOR)
-
-
-
-need to remove student destribution
-
-
-
-
-currently what is the role of bunk bed how this work it is different than the single bed
-if i add the bunk bed what is flow current what are the places it effects?
-
-
-when student checkout room should available
-also it should be show in the recent activities
-
-
-
-how when checkout what are the things will calculate 
-his base monthly rate 
-total money 
-  -he pay
-  -charges
-  -discount
-all will calculated copare with base monthly rate eiter deu or admin have to give my to  that student if  payment is higher?
-
-one thing is what are student checkout in the middle of the month how we handle this?
-we calculate that 15days money ?? also base on that will figuroeut the money to take from that student or take it? 
-
-
-
-what is the current whole flow of the automated billing how the automated billing is calcualted right now?
-change rule
-initiallly admin set the base payment right when configuring the student --> that is his monthly money that user have to pay 
-
-now the initial money  that student pay(monthly money) will be stay as it is 
-meaning suppose user(student)  join hostel  to jan 2. this is not that jan month money
-this money will be calculate at end of his checkout.  in the atomated billing we have show
-February 2 amount remaning to pay (admin configure amount)  
-in nepal it is practice admin take the whole month anoumnt initially and that money will only calculated where student  checkout from that hostel
-this is my raw thoughts do you have better way or idea to handle this requirement 
-make it accurate main thing is we have to make this system accurate. everything robust
-not that wrong calcuation. cuz general public(studnet) and hostel owner going to use this in mass 
-
-if anything not as it is or iam telling the wrong flow based on this codebase please  tell me 
-
-
-
-
-
-		and also bed status is dynamic currenly when i see the layout?? 
-for e.g when available color will be green , when reserved color should be yellow/orange and so on
-what is in the current code
-
-i also need to handle the room changin
-
-default window & door size look so huge amke it so small
-
-room and layout not working at expected i have to test it seprately
-
-how this monthly base payment is calculated currently?
-
-room
-
-
-due is not working as exptected and properly what is the meaning of due?
-in the current system what are the actions trigger due when due show in the screen
-due( Outstanding Dues)
-
-
-ATTENDANCE::
-check in checkout system
-
-businessId , userId
-we do not ahave the user & business table on this project we take the data from another microservice  
-
-also for now we do not 
-each business has it own students each student have their attendace
-
-mainly focus on checkIn checkOut  user can do multiple time in that business
-and for the inital checkIn we can take this as a attendance we treat as a attendance
-checkIn our attendances and we take out the report fom there
-
-when user checkIn user going in request query we get the userId from the request 
-
-we have report for the checkIn checkout  also we have report for attendance
-here i talk about business but that is acutally hostel 
-we have hostel hostel have student so on 
-
-we do not have the time bound and the strict rule for checkIn and checkOut
-one thing is initial checkIn going to happend admin configuration process when admin configure the student student automatically checkIn for the first time
-
-
-bed availibity count so manythings are missing and update in the layout not the acutal table sometimes and something like this problem you need to figureout this everything trace youself createfull
-
-
-layout and the json is not sysnc properly
-
-
-in the edit showing default on price
-
-in update also should update the fee base payment not showing when update
-
-when charge happens it is subtract from the advance
-
-MONTHLY PAYMENT HOW IT WORKS?
-
-student detail financial information missing some node and calculation
-
-ladger expand feature should remove
-
-student charging pagination
-
-when checkout need to unnecessary info
-
-student status distrbution and occupancy tred should bremove fromt he analzytics section
-
-when we create a room we do not have input for adding the foot of that room 
-
-OTP LOGIN
-
-student detail financial information missing some node and calculation
-
-and also bed status is dynamic currenly when i see the layout?? 
-
-need to manage and carefully update the trigger wise status when what status will change
-
-automated billing
-status
-
-
-things to figureout 
-
-
-
-WHAT YOU LEARN FROM BEES -->WON
-
-both are api point the same place in the db for data?
-
-
-
-based on this codebase i want you give me the flow of hostel status when this hostel status is change what are the trigggers FULLY
-evertying what are the status list:
-which api change the status & what is that status , what is initial status whole user flow
-
-
-
-in the current process bed are showing in the layout but all the bed colors are green
-even if bed status is changes  also supposed 
-
-
-when admin try to delete the bed show pop up are sure and if that bed is reserved/booked  showing alrady have reserved/booked  so you cannot delete
-
-
-current in the analytics section shhowing 
-Current Occupancy Rate
-Percentage of beds currently occupied
-74%  --->i think this is hardcoded in the frontend
-figureout why and i want you to make this dynamic put the actual data come from the api to achive that what exactly i need to change in the backend/frontend no code just to figureout the cause and anluze understannd it throughly and come of with concredte plan
-
-
-
-here in the CURRENT SYSTEM how this automated billing is working  i want a full flow 
-how it woks how the automated billing happens of the particular student how this process works?
-
-what are we have in the UI related to the automated billing what are things admin can see or any can do or  tell me everthing & what are button we have E.G like view and also explain what that do
-
-
-
-which amount user pay every month currently adminconfigured amount or ?
-anything will calculate? what if admin change the confiureout amount in the middle of the month
-
-
-in the automated billing section i think this NPR 75,000 Avg Monthly is hard coded?
-
-
-I HAVE TO CHANGE THE FOLLING THING
-advance is advance we do not calculate for any month or skip
-e.g user pay the advance in the January2 ,
-we have show due of that from that month january2 
- advance meaning no paymnet of any month
- that advance will calcualte when user checkout
-
-
-
-
-I THINK WE HAVE TO REVAMP THAT USING THE NEPALI MONTH INSTED ENGLISH DATE
+image must should be rendered
