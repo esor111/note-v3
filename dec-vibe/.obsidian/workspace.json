@@ -1,56 +1,57 @@
 {
   "main": {
-    "id": "2a3316f1371639cc",
+    "id": "a2aa64d7cf7256d8",
     "type": "split",
     "children": [
       {
-        "id": "30ebaad82b5da25b",
+        "id": "1720850aea6e232b",
         "type": "tabs",
         "children": [
           {
-            "id": "8470808c0f350d46",
+            "id": "250e495dcb22b574",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt-guide/resources.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resources"
-            }
-          },
-          {
-            "id": "6596de6bde445d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNTIL BIRTHDAY.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UNTIL BIRTHDAY"
+              "title": "Welcome"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "0df97ecae203c9db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1b87371b9b6fff8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5f538accbc0058ea",
+    "id": "b1d9666787bd723e",
     "type": "split",
     "children": [
       {
-        "id": "00fad2b14b3eadeb",
+        "id": "ea3d97a6de29cd6f",
         "type": "tabs",
         "children": [
           {
-            "id": "fd839b6db2525b53",
+            "id": "7d2a1e6adcd6a711",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,12 +64,12 @@
             }
           },
           {
-            "id": "44ce7d1d32910cfc",
+            "id": "c01619f334630e5a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "birthda",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +81,7 @@
             }
           },
           {
-            "id": "9e5afe9c7039f625",
+            "id": "a790fee897ef1d72",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "8891d9e10dd83077",
+    "id": "e5ea65bcf0b7394e",
     "type": "split",
     "children": [
       {
-        "id": "85860252f9cc2f02",
+        "id": "e8c95d572a4a546e",
         "type": "tabs",
         "children": [
           {
-            "id": "c603c22d2877f444",
+            "id": "2b7143a62fd2fe78",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-12-02.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-12-02"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "073bbc08c62bc3ce",
+            "id": "4f83e683225e0c49",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-12-06.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-12-06"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "6db803e536a9e6ce",
+            "id": "22951c46ade9d5fe",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,36 +153,40 @@
             }
           },
           {
-            "id": "07ff01e14d833c2c",
+            "id": "901a31d86ab7db1b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7482b81bca49ce47",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-12-02.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-02"
-            }
-          },
-          {
-            "id": "89f7b4276026a34c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Welcome"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,41 +196,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "fd839b6db2525b53",
+  "active": "250e495dcb22b574",
   "lastOpenFiles": [
-    "2025-10-26.md",
-    "2025-12-08.md",
-    "2025-12-07.md",
-    "prompt-guide/resources.md",
-    "UNTIL BIRTHDAY.md",
-    "code/ladger/BRAINSTROME-DESKTOP-457DFH4.md",
-    "healio.base",
-    "KAHA.md",
-    "file.png",
-    "EVERY -DAY STARTING.md",
-    "LINKS.md",
-    "REPEAT -PROCESS.md",
-    "2025-11-21.md",
-    "prompt.md",
-    "2025-12-06.md",
-    "2025-12-03.md",
-    "2025-12-05.md",
-    "2025-12-04.md",
-    "2025-11-27.md",
-    "2025-11-29.md",
-    "2025-12-01.md",
-    "2025-12-02.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "prompt-guide"
+    "Welcome.md"
   ]
 }
