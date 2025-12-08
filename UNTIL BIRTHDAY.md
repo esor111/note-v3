@@ -1,0 +1,20 @@
+
+https://www.youtube.com/watch?v=SfOaZIGJ_gs&t=2144s
+
+https://www.anthropic.com/
+
+https://www.youtube.com/watch?v=TLKxdTmk-zc
+
+https://notebooklm.google.com/
+
+link
+IAM GOING TO BE AN ELONE MUSK OF CONTEXT ENGENERING  , PROMPT ENGINEERING & GET THE JOB DONE BY AI  , FLUENCY WITH AI , BECOME AN AI NATIVE 
+
+THIS IS THE TIME IAM REALLY EXCITED MAN REALLY
+
+TRY TO DOMAIN TRANSFER 
+READ BOOK ABOUT FUNDAMENTAL OF PROMPT ENGINEERING
+
+
+
+PODCAST

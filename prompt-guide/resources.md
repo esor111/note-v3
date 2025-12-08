@@ -35,4 +35,3 @@ https://cookbook.openai.com/articles/related_resources
 
 
 https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-4-best-practices
-

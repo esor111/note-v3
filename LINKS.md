@@ -38,3 +38,18 @@ https://github.com/run-llama/llama_index
 
 SOLO DEV
 https://www.youtube.com/@edmundyong
+
+
+
+
+YOU 
+
+MASTERING THE AI TOOLS
+
+
+https://www.youtube.com/shorts/g4ToIFAcPQg
+
+https://www.youtube.com/shorts/g4ToIFAcPQg
+
+
+
