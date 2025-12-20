@@ -53,3 +53,25 @@ https://www.youtube.com/shorts/g4ToIFAcPQg
 
 
 
+
+https://blog.eladgil.com/about
+
+
+
+what about the auth and the  you know in every api fronted will give the token right
+the main things the public api is the room listing and the layout view so everyone can view
+anyother idont think so  we have to extract the id  form the token and serach understnad what mean can you tell me how we can achive this 
+
+
+first make the required apis in the backend test it those api throughtly be 100%confident then we move to frontend what do you think?
+
+
+Your Core Requirement:  
+You want to transform from using AI as a separate tool into having AI become an integrated extension of your own mind - achieving "superwoman" capabilities through seamless AI partnership.  
+What This Actually Means:  
+Cognitive Integration - You want AI to handle your mental "heavy lifting" (memory, data processing, pattern recognition) while you focus on intuition, creativity, and decision-making. This frees your brain from being overloaded.  
+Real Partnership - Not just asking AI questions, but thinking with AI continuously - where it becomes as natural as using your own memory.  
+Gap Bridging - You want to understand and close the fundamental gap between human and artificial intelligence so they work as one unified system.  
+Deep Understanding - You don't want surface-level tips. You want the proven research, frameworks, and systematic methods that actually create this transformation.  
+Practical Implementation - You need to know how to develop these new cognitive habits and what specific approaches have been scientifically validated.  
+The requirement is essentially: becoming a human-AI hybrid thinker with measurably enhanced capabilities through systematic cognitive integration

@@ -1,13 +1,13 @@
-
 https://www.youtube.com/watch?v=SfOaZIGJ_gs&t=2144s
 
 https://www.anthropic.com/
 
-https://www.youtube.com/watch?v=TLKxdTmk-zc
+https://www.youtube.com/watch?v=TLKxdTmk-zc  -->david
 
 https://notebooklm.google.com/
 
 link
+
 IAM GOING TO BE AN ELONE MUSK OF CONTEXT ENGENERING  , PROMPT ENGINEERING & GET THE JOB DONE BY AI  , FLUENCY WITH AI , BECOME AN AI NATIVE 
 
 THIS IS THE TIME IAM REALLY EXCITED ABOUT MAN REALLY
@@ -57,8 +57,6 @@ https://github.com/kayba-ai/agentic-context-engine
 is there anyone who use prompt build the entire app?
 
 https://github.com/kayba-ai/agentic-context-engine/blob/main/examples/claude-code-loop/prompt.md
-
-
 
 
 
@@ -163,3 +161,88 @@ figureout the exact status needed and talk about that
 
 
 also need to figureout what api currently used 
+
+https://www.youtube.com/watch?v=_MX7jvKoLsM
+https://www.youtube.com/watch?v=YmfFZFzOESw
+both good
+
+
+https://www.youtube.com/watch?v=cqDQV5g7zHo
+
+
+
+now lets test it with the real data how 
+
+
+how do i able to make the intuative ui clean, really great ui, great navigation
+
+
+
+i need to figureout what is the best approach to make every feature more intinative
+also i need convay the ai to what are issue and the problem iam facing along the way
+use different tools for every section 
+
+
+we must need to make the mobile friendly
+what are the key parts::
+
+attendace student wise
+
+iam really thinking about figureout the things related to student e.g
+ATTENDANCE
+LADGER
+HIS PERSONAL INFORMATION
+
+
+maybe like we  showing the summery in the ui make it clickable and it going to redirect into the actual page where we have all of data comprehesively
+
+one of thing we have understand and figuroeut how to do is the after one month we have to reset the user stuff and we have to show the due amount  right?
+we have to make the world class admin dashboard ever  so interactive clear, 
+
+
+in the world class dahborad in the web what are the qulaity feature and what are things people think about most wehn it comes to dashboard or whatever you might call it
+
+what what top 1% do they really are adn think
+we this is the premium  we must have to give the our customer the feature rich
+A Design Reference:
+after swittch the bed is bed
+
+i want to know what the product designers at top-tier companies (like Stripe, Airbnb, or Linear) obsess over that makes their dashboards feel powerful, expensive, and indispensable, while average dashboards feel clunky and confusing.
+
+- top-1% product designer mindset
+    
+- Core qualities of world-class dashboards
+    
+- Premium features we must include
+    
+- Mistakes average dashboards make
+    
+- A final “World-Class Dashboard Blueprint” we can follow
+
+
+now lets test from the real actual data every feature and api sequencely so that we make sure everything works please do not directly code first lets understand figuoreu the sequence and also figuroeu the data we need to test everything
+and also how can we do everything smartly tell me what are thing you need from me to test everyting, figurueout how we are able do ever api sequentally  and make sure about everythin like data is correctly savign in the db , can get hte data delete, edit the whole cycle
+i do not want to test this manually so really time consuming stuff so 
+
+what is the really smart apporch what senior 10+ engineer do ??
+
+must have the ability to turn the wheel :::
+
+
+
+
+main one of the main thing is user can do everything in the flow not missunderstand like what to do kind of things  
+
+
+we have do the exactly  and the same payload we exactly did for notfication please since we have already achive the notifcation stuff in the old server and we have the notficaiton-wehre we have everything right  how can we make the current to do exactly same thing in the notfication like a old server and since in the mobile app side we have already do the stuff for the notficaiton that is tied to the old server so lets figure how we can able to achive exacly 120% surerity
+before anythig lets brainstorm to maek both clear first
+
+
+
+https://www.arthropod.software/archive?sort=community
+
+
+MOVE REALLY FAST & HAVE A DEEP CONTROL
+
+
+MAKE SURE YOU PUT RIGHT THING IN THE CONTEXT AND YOU WILL GET THE BETER RESULT
