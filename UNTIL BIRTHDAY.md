@@ -176,8 +176,6 @@ now lets test it with the real data how
 
 how do i able to make the intuative ui clean, really great ui, great navigation
 
-
-
 i need to figureout what is the best approach to make every feature more intinative
 also i need convay the ai to what are issue and the problem iam facing along the way
 use different tools for every section 
@@ -225,14 +223,10 @@ and also how can we do everything smartly tell me what are thing you need from m
 i do not want to test this manually so really time consuming stuff so 
 
 what is the really smart apporch what senior 10+ engineer do ??
-
 must have the ability to turn the wheel :::
 
 
-
-
 main one of the main thing is user can do everything in the flow not missunderstand like what to do kind of things  
-
 
 we have do the exactly  and the same payload we exactly did for notfication please since we have already achive the notifcation stuff in the old server and we have the notficaiton-wehre we have everything right  how can we make the current to do exactly same thing in the notfication like a old server and since in the mobile app side we have already do the stuff for the notficaiton that is tied to the old server so lets figure how we can able to achive exacly 120% surerity
 before anythig lets brainstorm to maek both clear first
@@ -246,3 +240,19 @@ MOVE REALLY FAST & HAVE A DEEP CONTROL
 
 
 MAKE SURE YOU PUT RIGHT THING IN THE CONTEXT AND YOU WILL GET THE BETER RESULT
+
+
+https://www.youtube.com/watch?v=fD4ktSkNCw4
+https://www.youtube.com/@avtharai
+
+
+
+https://ghuntley.com/agent/
+
+https://www.youtube.com/watch?v=F6O7r9LqhC0
+
+https://www.sanity.io/blog/first-attempt-will-be-95-garbage#2uxb7m
+
+https://github.com/maxritter/claude-codepro?tab=readme-ov-file
+
+https://thomaslandgraf.substack.com/p/context-engineering-for-claude-code?sort=community

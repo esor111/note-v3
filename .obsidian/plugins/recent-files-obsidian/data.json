@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-12-20",
-      "path": "2025-12-20.md"
+      "basename": "KAHA",
+      "path": "KAHA.md"
     },
     {
-      "basename": "UNTIL BIRTHDAY",
-      "path": "UNTIL BIRTHDAY.md"
+      "basename": "2025-12-23",
+      "path": "2025-12-23.md"
+    },
+    {
+      "basename": "2025-12-22",
+      "path": "2025-12-22.md"
+    },
+    {
+      "basename": "2025-12-18",
+      "path": "2025-12-18.md"
     },
     {
       "basename": "2025-12-19",
       "path": "2025-12-19.md"
     },
     {
-      "basename": "2025-12-16",
-      "path": "2025-12-16.md"
+      "basename": "2025-12-20",
+      "path": "2025-12-20.md"
     },
     {
-      "basename": "2025-12-18",
-      "path": "2025-12-18.md"
+      "basename": "2025-12-21",
+      "path": "2025-12-21.md"
+    },
+    {
+      "basename": "UNTIL BIRTHDAY",
+      "path": "UNTIL BIRTHDAY.md"
+    },
+    {
+      "basename": "2025-12-16",
+      "path": "2025-12-16.md"
     },
     {
       "basename": "prompt",
@@ -121,10 +137,6 @@
       "path": "healio.base"
     },
     {
-      "basename": "KAHA",
-      "path": "KAHA.md"
-    },
-    {
       "basename": "file",
       "path": "file.png"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Rewrite as tweet",
       "path": "copilot/copilot-custom-prompts/Rewrite as tweet.md"
-    },
-    {
-      "basename": "Remove URLs",
-      "path": "copilot/copilot-custom-prompts/Remove URLs.md"
-    },
-    {
-      "basename": "Make longer",
-      "path": "copilot/copilot-custom-prompts/Make longer.md"
-    },
-    {
-      "basename": "Generate table of contents",
-      "path": "copilot/copilot-custom-prompts/Generate table of contents.md"
     }
   ],
   "omittedPaths": [],
