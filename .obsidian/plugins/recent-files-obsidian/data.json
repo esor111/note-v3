@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-12-24",
+      "path": "2025-12-24.md"
+    },
+    {
       "basename": "KAHA",
       "path": "KAHA.md"
     },
     {
       "basename": "2025-12-23",
       "path": "2025-12-23.md"
+    },
+    {
+      "basename": "UNTIL BIRTHDAY",
+      "path": "UNTIL BIRTHDAY.md"
     },
     {
       "basename": "2025-12-22",
@@ -27,10 +35,6 @@
     {
       "basename": "2025-12-21",
       "path": "2025-12-21.md"
-    },
-    {
-      "basename": "UNTIL BIRTHDAY",
-      "path": "UNTIL BIRTHDAY.md"
     },
     {
       "basename": "2025-12-16",
@@ -195,10 +199,6 @@
     {
       "basename": "Rewrite as tweet thread",
       "path": "copilot/copilot-custom-prompts/Rewrite as tweet thread.md"
-    },
-    {
-      "basename": "Rewrite as tweet",
-      "path": "copilot/copilot-custom-prompts/Rewrite as tweet.md"
     }
   ],
   "omittedPaths": [],

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-23.md",
+                "file": "2025-12-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-23"
+              "title": "2025-12-24"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KAHA.md",
+                "file": "2025-12-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KAHA"
+              "title": "2025-12-23"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,16 +195,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd2d97f1a52ff760",
+  "active": "6f1eb2035a9e78a1",
   "lastOpenFiles": [
-    "2025-12-23.md",
     "KAHA.md",
+    "2025-12-24.md",
+    "2025-12-23.md",
+    "UNTIL BIRTHDAY.md",
     "2025-12-22.md",
     "2025-12-18.md",
     "2025-12-19.md",
     "2025-12-20.md",
     "2025-12-21.md",
-    "UNTIL BIRTHDAY.md",
     "2025-12-16.md",
     "Pasted image 20251221060606.png",
     "prompt.md",
@@ -225,7 +225,6 @@
     "2025-12-08.md",
     "2025-12-09.md",
     "2025-12-10.md",
-    "THE-MAGIC-BOX/four.md",
     "THE-MAGIC-BOX",
     "Untitled 1.base",
     "healio.base",

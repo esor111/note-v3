@@ -256,3 +256,9 @@ https://www.sanity.io/blog/first-attempt-will-be-95-garbage#2uxb7m
 https://github.com/maxritter/claude-codepro?tab=readme-ov-file
 
 https://thomaslandgraf.substack.com/p/context-engineering-for-claude-code?sort=community
+
+
+
+
+OTHER'S
+https://www.youtube.com/watch?v=fSl5zdnM_HE
