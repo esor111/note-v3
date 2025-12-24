@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-24.md",
+                "file": "UNTIL BIRTHDAY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-24"
+              "title": "UNTIL BIRTHDAY"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-23.md",
+                "file": "2025-12-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-23"
+              "title": "2025-12-24"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8891d9e10dd83077",
@@ -195,12 +197,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f1eb2035a9e78a1",
+  "active": "dd2d97f1a52ff760",
   "lastOpenFiles": [
     "2025-12-23.md",
+    "UNTIL BIRTHDAY.md",
     "2025-12-24.md",
     "KAHA.md",
-    "UNTIL BIRTHDAY.md",
     "2025-12-22.md",
     "2025-12-18.md",
     "2025-12-19.md",
