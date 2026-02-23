@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "2025-12-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "2025-12-26"
             }
           }
         ]
@@ -201,6 +201,7 @@
   },
   "active": "250e495dcb22b574",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "2025-12-26.md"
   ]
 }
